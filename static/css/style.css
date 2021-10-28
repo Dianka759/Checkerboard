@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0 auto;
+}
+
+body {
+    color: white;
+    background-color: rgb(65, 65, 65);
+    text-align: center;
+    padding: 20px;
+}
+
+table tr td {
+    height: 60px;
+    width: 60px;
+}
+
+table {
+    margin-top: 10px;
+}
+
+/* tried to remove the spaces between the squares... for some reason it's harder than I thought (: */
